@@ -1,4 +1,4 @@
-# Ponteiros em C — 30 Exercícios Resolvidos
+# Ponteiros Aplicados na Programação Avançada
 
 Coletânea de **30 problemas resolvidos** sobre ponteiros, aritmética de endereços, alocação dinâmica e gerenciamento de memória em C — incluindo questões do **ENADE**.
 
